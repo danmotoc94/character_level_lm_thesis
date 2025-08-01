@@ -68,12 +68,6 @@ The generate_names.py script will train both the statistical bigram model and th
 python generate_names.py
 
 
-Accessing the Thesis Document
-
-The complete bachelor's thesis document, which provides a detailed theoretical background, methodology, results, and discussion, is available here:
-
-    [Link to your final thesis PDF, e.g., in this repository or on your university's site]
-
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
